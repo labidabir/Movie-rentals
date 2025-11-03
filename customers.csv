@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,active
+1,Mason,Garcia,user1@example.com,Chicago,0
+2,Liam,Brown,user2@example.com,Dallas,1
+3,Olivia,Lopez,user3@example.com,Houston,0
+4,Noah,Wilson,user4@example.com,Chicago,1
+5,Olivia,Davis,user5@example.com,Houston,1
+6,John,Wilson,user6@example.com,Dallas,1
+7,Lucas,Smith,user7@example.com,Chicago,1
+8,Isabella,Johnson,user8@example.com,Miami,1
+9,John,Johnson,user9@example.com,Los Angeles,0
+10,Ava,Brown,user10@example.com,Los Angeles,1
+11,John,Wilson,user11@example.com,Houston,1
+12,John,Smith,user12@example.com,Dallas,1
+13,Lucas,Miller,user13@example.com,Houston,0
+14,Mason,Anderson,user14@example.com,Dallas,1
+15,Isabella,Wilson,user15@example.com,Dallas,1
+16,Isabella,Brown,user16@example.com,Los Angeles,0
+17,Liam,Davis,user17@example.com,Miami,1
+18,John,Brown,user18@example.com,Miami,1
+19,Isabella,Smith,user19@example.com,Chicago,0
+20,Emma,Garcia,user20@example.com,Houston,1
+21,Liam,Miller,user21@example.com,Miami,0
+22,Emma,Smith,user22@example.com,Boston,1
+23,Lucas,Miller,user23@example.com,New York,1
+24,Emma,Jones,user24@example.com,Chicago,1
+25,Olivia,Jones,user25@example.com,Chicago,0
+26,Sophia,Johnson,user26@example.com,Los Angeles,0
+27,Emma,Miller,user27@example.com,Houston,0
+28,Lucas,Wilson,user28@example.com,Boston,0
+29,Olivia,Davis,user29@example.com,Miami,1
+30,Lucas,Anderson,user30@example.com,Miami,0
+31,Lucas,Brown,user31@example.com,Dallas,0
+32,John,Jones,user32@example.com,Chicago,0
+33,Lucas,Brown,user33@example.com,Houston,1
+34,Emma,Brown,user34@example.com,Houston,1
+35,Sophia,Davis,user35@example.com,Houston,1
+36,Lucas,Smith,user36@example.com,Dallas,1
+37,Lucas,Brown,user37@example.com,Los Angeles,1
+38,Isabella,Miller,user38@example.com,Miami,0
+39,Ava,Davis,user39@example.com,Houston,0
+40,Noah,Jones,user40@example.com,Boston,1
+41,Olivia,Garcia,user41@example.com,Boston,1
+42,Ava,Brown,user42@example.com,Dallas,0
+43,Olivia,Johnson,user43@example.com,Los Angeles,1
+44,Noah,Davis,user44@example.com,Dallas,1
+45,Sophia,Smith,user45@example.com,New York,0
+46,Liam,Lopez,user46@example.com,Chicago,1
+47,Noah,Jones,user47@example.com,Miami,1
+48,Mason,Jones,user48@example.com,Dallas,1
+49,Ava,Lopez,user49@example.com,Dallas,1
+50,Emma,Miller,user50@example.com,Miami,0
+51,John,Garcia,user51@example.com,Chicago,1
+52,Mason,Jones,user52@example.com,New York,0
+53,Lucas,Jones,user53@example.com,Boston,1
+54,Lucas,Smith,user54@example.com,Boston,1
+55,Emma,Jones,user55@example.com,Los Angeles,1
+56,Emma,Davis,user56@example.com,Dallas,0
+57,Isabella,Miller,user57@example.com,Chicago,1
+58,Olivia,Garcia,user58@example.com,Los Angeles,1
+59,Isabella,Johnson,user59@example.com,Boston,1
+60,Noah,Garcia,user60@example.com,Los Angeles,0
+61,Liam,Miller,user61@example.com,Los Angeles,1
+62,Ava,Wilson,user62@example.com,New York,0
+63,Emma,Davis,user63@example.com,New York,0
+64,Olivia,Wilson,user64@example.com,Los Angeles,1
+65,Ava,Miller,user65@example.com,Houston,0
+66,Noah,Smith,user66@example.com,Miami,0
+67,Liam,Johnson,user67@example.com,Boston,1
+68,Mason,Garcia,user68@example.com,Boston,0
+69,Isabella,Brown,user69@example.com,New York,1
+70,Noah,Anderson,user70@example.com,Houston,0
+71,Lucas,Garcia,user71@example.com,Houston,0
+72,Isabella,Smith,user72@example.com,Dallas,1
+73,John,Johnson,user73@example.com,Miami,1
+74,Isabella,Anderson,user74@example.com,Los Angeles,1
+75,Noah,Davis,user75@example.com,Dallas,0
+76,Emma,Miller,user76@example.com,Dallas,1
+77,Liam,Miller,user77@example.com,Houston,1
+78,Noah,Davis,user78@example.com,Houston,1
+79,Emma,Anderson,user79@example.com,Houston,1
+80,Emma,Wilson,user80@example.com,Los Angeles,1
+81,Isabella,Johnson,user81@example.com,Los Angeles,1
+82,Liam,Davis,user82@example.com,Dallas,1
+83,Noah,Anderson,user83@example.com,Dallas,0
+84,Noah,Jones,user84@example.com,New York,1
+85,Lucas,Garcia,user85@example.com,Boston,0
+86,Olivia,Smith,user86@example.com,Boston,0
+87,Ava,Davis,user87@example.com,Boston,1
+88,Olivia,Smith,user88@example.com,New York,0
+89,Noah,Wilson,user89@example.com,Boston,0
+90,Isabella,Wilson,user90@example.com,Houston,0
+91,Mason,Jones,user91@example.com,Los Angeles,0
+92,Noah,Miller,user92@example.com,Los Angeles,0
+93,John,Davis,user93@example.com,Boston,0
+94,Emma,Johnson,user94@example.com,Dallas,0
+95,Sophia,Miller,user95@example.com,Miami,0
+96,Noah,Anderson,user96@example.com,Houston,0
+97,John,Miller,user97@example.com,New York,0
+98,John,Johnson,user98@example.com,Miami,1
+99,Ava,Garcia,user99@example.com,Los Angeles,0
+100,Liam,Wilson,user100@example.com,Boston,0
