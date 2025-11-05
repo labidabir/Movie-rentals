@@ -1,0 +1,76 @@
+customer_id,name,city,state,join_date
+1,Emma Davis,Dallas,CA,2023-01-01
+2,Ava Davis,Houston,CA,2023-01-02
+3,Sophia Lopez,Miami,NY,2023-01-03
+4,John Johnson,Dallas,MA,2023-01-04
+5,John Davis,Houston,CA,2023-01-05
+6,Ava Johnson,Miami,TX,2023-01-06
+7,Olivia Jones,New York,IL,2023-01-07
+8,Olivia Wilson,New York,IL,2023-01-08
+9,Mason Brown,New York,NY,2023-01-09
+10,Sophia Brown,Dallas,IL,2023-01-10
+11,Noah Lopez,Los Angeles,IL,2023-01-11
+12,Olivia Johnson,Miami,MA,2023-01-12
+13,Mason Wilson,New York,FL,2023-01-13
+14,Emma Smith,Boston,TX,2023-01-14
+15,Isabella Smith,Chicago,MA,2023-01-15
+16,Emma Jones,Miami,FL,2023-01-16
+17,Liam Davis,Miami,IL,2023-01-17
+18,Mason Lopez,Los Angeles,NY,2023-01-18
+19,Olivia Davis,Houston,NY,2023-01-19
+20,John Brown,Los Angeles,IL,2023-01-20
+21,Sophia Smith,New York,CA,2023-01-21
+22,Sophia Garcia,Chicago,FL,2023-01-22
+23,Mason Garcia,Chicago,IL,2023-01-23
+24,Sophia Wilson,Boston,NY,2023-01-24
+25,Mason Brown,Boston,NY,2023-01-25
+26,Olivia Garcia,New York,FL,2023-01-26
+27,Olivia Smith,Chicago,TX,2023-01-27
+28,Lucas Wilson,Los Angeles,IL,2023-01-28
+29,John Miller,Dallas,MA,2023-01-29
+30,John Smith,Los Angeles,IL,2023-01-30
+31,Lucas Lopez,Dallas,TX,2023-01-31
+32,Isabella Wilson,New York,FL,2023-02-01
+33,Liam Smith,Chicago,FL,2023-02-02
+34,Isabella Johnson,Boston,NY,2023-02-03
+35,Liam Johnson,Miami,TX,2023-02-04
+36,Lucas Johnson,Boston,FL,2023-02-05
+37,Olivia Davis,Houston,CA,2023-02-06
+38,Emma Anderson,Miami,IL,2023-02-07
+39,Olivia Anderson,Dallas,NY,2023-02-08
+40,Lucas Smith,Los Angeles,MA,2023-02-09
+41,Lucas Johnson,Los Angeles,TX,2023-02-10
+42,Sophia Anderson,Boston,NY,2023-02-11
+43,Lucas Wilson,Los Angeles,FL,2023-02-12
+44,Ava Garcia,Boston,FL,2023-02-13
+45,Olivia Miller,Boston,MA,2023-02-14
+46,Olivia Garcia,Los Angeles,MA,2023-02-15
+47,Sophia Brown,Houston,MA,2023-02-16
+48,Noah Lopez,New York,MA,2023-02-17
+49,Ava Johnson,Los Angeles,MA,2023-02-18
+50,John Lopez,Dallas,CA,2023-02-19
+51,Lucas Anderson,Chicago,IL,2023-02-20
+52,Emma Johnson,Boston,TX,2023-02-21
+53,Isabella Jones,Houston,NY,2023-02-22
+54,Isabella Garcia,Boston,MA,2023-02-23
+55,Liam Miller,Dallas,IL,2023-02-24
+56,Emma Jones,Boston,FL,2023-02-25
+57,Ava Garcia,Dallas,IL,2023-02-26
+58,Liam Lopez,Boston,MA,2023-02-27
+59,Isabella Garcia,Los Angeles,NY,2023-02-28
+60,Lucas Wilson,Chicago,MA,2023-03-01
+61,John Wilson,Los Angeles,IL,2023-03-02
+62,Noah Johnson,Boston,FL,2023-03-03
+63,Liam Garcia,Dallas,IL,2023-03-04
+64,Emma Johnson,New York,MA,2023-03-05
+65,Isabella Brown,Houston,TX,2023-03-06
+66,Noah Garcia,Boston,IL,2023-03-07
+67,Lucas Jones,New York,TX,2023-03-08
+68,Ava Jones,Boston,MA,2023-03-09
+69,Noah Wilson,Houston,IL,2023-03-10
+70,Mason Garcia,Los Angeles,FL,2023-03-11
+71,John Johnson,Los Angeles,CA,2023-03-12
+72,Sophia Garcia,Boston,CA,2023-03-13
+73,John Smith,Houston,TX,2023-03-14
+74,Ava Brown,Chicago,MA,2023-03-15
+75,Noah Brown,Chicago,TX,2023-03-16
