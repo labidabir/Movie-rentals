@@ -83,10 +83,9 @@ SELECT * FROM rentals_1;
 
 -- =====================================
 -- reports.sql
--- Reporting Queries (Part 1) for *_1 tables
 -- =====================================
 
--- 1️⃣ Rentals per store (last 90 days)
+-- Rentals per store (last 90 days)
 SELECT 
     s.store_id,
     s.name AS store_name,
@@ -98,7 +97,7 @@ WHERE d.full_date >= DATE('now', '-90 days')
 GROUP BY s.store_id, s.name
 ORDER BY rentals_last_90_days DESC;
 
--- 2️⃣ Top 5 movies by rental count (YTD) -- FIXED
+--  Top 5 movies by rental count (YTD) -- FIXED
 SELECT 
     m.movie_id,
     m.title,
@@ -111,7 +110,7 @@ GROUP BY m.movie_id, m.title
 ORDER BY rental_count DESC
 LIMIT 5;
 
--- 3️⃣ Revenue by genre (monthly roll-up)
+--  Revenue by genre (monthly roll-up)
 SELECT 
     d.year,
     d.month,
@@ -123,7 +122,7 @@ JOIN dates_1 d ON r.date_id = d.date_id
 GROUP BY d.year, d.month, m.genre
 ORDER BY d.year, d.month, total_revenue DESC;
 
--- 4️⃣ Active customers per store (last 60 days)
+--  Active customers per store (last 60 days)
 SELECT 
     s.store_id,
     s.name AS store_name,
@@ -135,7 +134,7 @@ WHERE d.full_date >= DATE('now', '-60 days')
 GROUP BY s.store_id, s.name
 ORDER BY active_customers DESC;
 
--- 5️⃣ Late returns per store
+--  Late returns per store
 SELECT 
     s.store_id,
     s.name AS store_name,
@@ -146,7 +145,7 @@ WHERE r.late_fee > 0
 GROUP BY s.store_id, s.name
 ORDER BY late_returns DESC;
 
--- 6️⃣ Average rental fee per genre
+--  Average rental fee per genre
 SELECT 
     m.genre,
     ROUND(AVG(r.rental_fee), 2) AS avg_rental_fee
@@ -155,7 +154,7 @@ JOIN movies_1 m ON r.movie_id = m.movie_id
 GROUP BY m.genre
 ORDER BY avg_rental_fee DESC;
 
--- 7️⃣ Monthly revenue trend (with running total)
+--  Monthly revenue trend (with running total)
 SELECT 
     d.year,
     d.month,
